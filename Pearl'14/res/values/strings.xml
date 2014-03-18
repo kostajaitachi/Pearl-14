@@ -1,0 +1,301 @@
+<?xml version="1.1" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pearl 2014</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="about_text">Pearl, is the Annual Cultural Festival of the Birla Institute of Technology and Science Pilani, Hyderabad Campus. Following the immense popularity of the festival over the previous years, Pearl 14 aspires to venture into new avenues by playing host to a wide range of cultural extravaganza!!
+</string>
+	<string name="title_send_feedback">Send feedback</string>
+ 
+    <string name="mail_feedback_email">kostaja.techworld@gmail.com</string>
+    <string name="mail_feedback_subject">Feedback on your app</string>
+    <string name="mail_feedback_message">" "</string>
+    <string name="wolfmother">WolfMother</string>
+    <string name="javedali">JavedAli</string>
+    <string name="Catharsis">Catharsis</string>
+    <string name="hiphop">Hip Hop</string>
+    <string name="glitterati">Glitteratti</string>
+    <string name="tillDeaf">T D D W P</string>
+    <string name="electro">ElectroVertz</string>
+    <string name="fraglore">Fraglore</string>
+    <string name="Aspire">Aspire</string>
+    <string name="finance">Finance</string>
+    <string name="music">Music</string>
+    <string name="arts">Arts</string>
+    <string name="dancing">Dancing</string>
+    <string name="vfx">VFX</string>
+    <string name="photog">Photog</string>
+    <string name="drama">Drama</string>
+    <string name="journal">Journal</string>
+    <string name="literary">Literary</string>
+    <string name="quiz">Quiz</string>
+    <string name="hindi">Hindi</string>
+    
+    <string name="wolfmother_ds">Truly a band out of time, the Australian power trio Wolfmother were conceived in 2000 -- about 30 years too late, considering that the musicians\' psychedelic brand of proto-heavy metal sounded similar to the late-\'60s/early-\'70s craft of Blue Cheer and Black Sabbath. Comprised of vocalist/guitarist Andrew Stockdale, bassist/organist Chris Ross, and drummer Myles Heskett, Wolfmother took the initiative of recording a four-track demo in 2004 for the purpose of booking shows.So sterling were the results, however, that the band soon found itself re-recording the material for official release via the local label Modular Records. A second EP,Dimensions, appeared in 2006, and Wolfmother made the jump to the majors in early 2006, courtesy of an American distribution deal with Modular through Interscope Records. A self-titled album debut appeared in May and reached the Top 40, resulting in a trophy for Best Hard Rock Performance at the 2007 Grammy Awards. Co-founders Ross and Heskett left the group the following year, leaving Stockdale and new members Ian Peres (bass, keyboards), Aidan Nemeth (guitar), and Dave Atkins (drums) to carry the torch with 2009\'s Cosmic Egg.</string>
+    <string name="javedali_ds">Javed Ali, is an Indian playback singer who has been singing in Hindi movies since 2000. In 2007 Ali sang the song "Ek Din Teri Raahon Mein" from the movie Naqaab and thereafter the song "Jashn-e-Bahaaran" from the movie Jodhaa Akbar</string>
+    <string name="catharisis_ds">We at BITS, Pilani-Hyderabad Campus take great pleasure in inviting you to the first ever film. There are exciting prizes to be won including Rs.40, 000 worth cash prizes and much more! \n\n The competition will be judged by Sarika, acclaimed actress of Parzania, Tahaan, Bheja Fry and many more.\n\n1.Participants are expected to write, direct and shoot a short film of duration not beyond 25 minutes.\n\n2.The film can be multilingual. If it is not in English, subtitles have to be provided in English.\n\n3.The film can be submitted in the following ways:
+The YouTube link can be sent to catharsis@bits-pearl.org
+(Preferably)DVD should be sent to the following address:
+Sameer Sripada, G-182, Gandhi Bhavan,
+BITS Pilani Hyderabad Campus,
+Jawaharnagar, Shameerpet Mandal,
+Hyderabad - 500078\n\n4.The entries should be sent on or before 5th March, 2014.\n\n5.An entry fee of Rs.300 must be paid. The money can be either wired or sent in the form of a demand draft.
+Bank: State Bank of Hyderabad, Jawahar Nagar
+Name of the A/c Holder: S Sameer
+A/C No.:62196236699
+IFS Code: 0021092\n\n
+Judging Criteria
+There will be prizes for Best Direction, Best Actor and Best Film.
+The competition is open to all individuals and production houses.
+The selection will be done on a two tier basis, i.e. by a dedicated team (jury).</string>
+    <string name="hiphop_ds">World Hip Hop Dance Championship is a competitive dance that provides performers with opportunities to showcase the artistry and technique of hip hop dance and street dance, nationally and internationally, with television, media exposure, prestigious national and world championship titles. It is affliated with 40+ nations across the world including our very own nation India. Choreo Cultutre headed by Anjan Shiv Kumar is the official lincensee of the Indian branch of the Hip Hop International Championship and the auditions of Hyderabad will take place in BITS Pilani Hyderabad Campus.\n\nRules:\n\n1.Dancing styles in Hip-Hop genre must be used.\n\n2.Traditional Dance and folklore is welcome and considered a part of street dance routine.\n\n3.For more national and international rules check out this website- http://www.hiphopinternationalindia.com\n\n\nContact Details\n\nSiddharth Mishra
+Dance Club Secretary
+
+
+91-9666704551</string>
+    <string name="glitterati_ds">Seven sins: We will Indulge you in the seven most forbidden vices in human history and what\'s best is that you\'ll enjoy it!! Wrath, greed, sloth, pride, lust, envy, and gluttony made unforbidden this pearl !!\n\nIncredible India: One of the most ethnically diverse places in the world showcased by our equally diverse collection.The ancient history, the rich culture, the humble hospitality, the beautiful landscape, the modest lineage and the graceful charm all conglomerate into one to make what is India, Incredible India.\n\nRules:\n\n1.There will be two rounds -
+Prelims in the morning, for which there is no theme.
+Finals will be in the evening for which there are two theme events, \‘Incredible India\’ followed by \‘Seven sins\’.\n\n2.Register as a team. (Minimum 6 participants, Maximum 16 participants)\n\n3.The teams must get their own soundtracks.\n\n4.The time limit for each round will be 7 minutes.\n\nThe judging criteria will be creativity in clothing, presentation and the selection of soundtrack.</string>
+    
+    
+    
+    <string name="tilldeaf_ds">A nationwide search for the best rock and metal semi-professional bands. Six teams make it to the finals, and the winner gets to open for our much acclaimed international act during Pearl 2014, apart from, of course, the hugely attractive prize money! This is one chance you should definitely not miss out on, as a performer or as a part of the audience! Check out our past performers below.\n\n Registration - \n\n
+        To participate in Till Deaf Do We Part, please send a mail to tilldeaf@bits-pearl.org, with the following:\n\n1.Name of the band, genre and city you are based out of\n2.Name of all band members\n\n3.Attach 2 songs, at least one of which is an original composition in mp3 format\n\n4.Links to facebook, twitter and other social media profiles, if any\n\n5.Links to past perfomance videos, if any\n\nParticipation Rules-\n\n
+        1.Eligibility: A semi-professional band, having recorded at least one original composition.\n2.Competition Structure:
+Round 1 Online eliminations: Based on the demos uploaded by participants, top 6 bands will be selected by the judges for Round 2\nRound 2  Finals: The 6 shortlisted bands will battle it out on March 7th at Till Deaf Do We Part 2014 stage\n3.Each band shortlisted for the final round will get 40 minutes on stage, inclusive of setup and soundcheck time\n4.For the final round a standard five piece drum kit will be provided alongwith two crashes and one ride cymbal.\n5.The registration fee for Till Deaf Do We Part 2014 is INR 1500 (Includes food and accommodation on campus)\n6.The Judges decision will be final and binding for all.\n7.The decision of the organizers with respect to line-up is final and abiding.\n8.Till Deaf Do We Part 2014 reserves the right to disqualify any entry that does not meet the requirements herein outlined at any time.\n9.Breach of any rules at any stage of the entire process will invite disqualification. No obscenities shall be tolerated.</string>
+   
+    <string name="electro_ds">The Elektrovertz, Nina Shah and Malika Haydon, are a much sought after DJ duo, who have found their niche playing electronic dance music (EDM) for ardent party-goers. The girls are young, gorgeous and add glamour to any event they play at, with their sexy attitude, synchronised outfits and flawless make up. If they’re not rocking at all the major clubs, they’re usually producing their own music, and performing all over the world from London, to Dubai, Australia, and the Maldives! \n\n
+Their sound is pure EDM! They play everything from minimal, tech house, progressive, commercial and electro (under the EDM banner). Their global influences include Zedd, Deadmau5, Armin Van Buuren, Hardwell and Daft Punk.
+
+Don\'t be fooled by their beauty as they will unleash some deep and dirty electronic tunes that will shake up even the most experienced of dance floor veterans. These girls are not to be missed! Their electric energy is contagious enough to get any party pumping!</string>
+    
+    <string name="fraglore_ds">About \n\n
+Fraglore is the annual Gaming fest of Bits-Pilani Hyderabad campus. Spanning over 3 days of non stop gaming involving games like Counter Strike 1.6 , DOTA, FIFA and NFS, it is one of the biggest gaming festivals in India.
+\n\n 
+DOTA 2 \n\n
+The event is on-site. We will provide computers, however you are welcome to bring your own laptop, mouse and keyboards
+Abhiram Reddy - 09000420500
+\n\n
+Call of Duty 4: Modern Warfare\n
+Aashrey Sharma - 09705256807
+\n\n 
+Counter Strike\n
+Game rules coming soon!\n
+Koti Govada - 09666851041\n\n
+FIFA\n
+Game rules coming soon!\n
+Sidhant Panda - 09666531888\n\n
+NFS Most Wanted\n
+Game rules coming soon!\n
+Sidhant Panda - 09666531888\n\n</string>
+    <string name="aspire_ds">Amidst the cultural extravaganza of PEARL 2014 Aspire- Inspirational Talks provides a rare opportunity to students to interact with successful professionals from various fields. Aspire aims to bring in a diverse set of contemporary and unique innovationists to talk about their achievements, extraordinary life stories and experiences. With the speakers asked to share something as if it were "their last lecture" ASPIRE truly promises to have some really inspirational messages conveyed in an informal and interactive setting. So come, witness and be a part of this inspirational and life changing experience.</string>
+    
+    
+    <string name="finance_ds"><font fgcolor="#aacedaf6"><b>Island Crises</b></font>\n\nThis is one event that people who are good at managing money and resources shouldn\'t miss out on. Every team is given resources and cash to invest and develop their islands based on a few criteria and restrictions. The event would put your management skills to test and check if you would be able to manage the resources judiciously in the wake of various crises and emerge as an eminent power. Chalk up the most efficient or wildest of strategies to make the best use of resources given to you and guide your team to glory. We have thrown in elements of economics and barter to spice things up a notch. Don\'t miss out on the action.\n1. The number of participants per team would be decided based on the number of registrations.\n2. There would be 4-5 rounds depending on the number of participants again.\n3. The details of every round would be explained in detail before the event begins. Decision making, in the event of any confusion or conflict of opinion, lies with the event organizers.\n4. The winners would be decided based on the highest value of resources and progress of development after the completion of all the rounds.\n5. Everyone who is willing to be a part of this event MUST register on the website. Priority of participation would be given to those who have registered on the website. One person registering for a whole team wouldn\'t be considered.\n\n<font fgcolor="#aacedaf6"><b>Open Outcry</b></font>\n\nThe open outcry system for trading futures contracts is nothing more than a verbal auction between buyers and sellers of a commodity. Initially we conduct a workshop to teach how the futures contracts work and explain the methodology of the commodity trading in this game.Using the open outcry system for placing buys and sells, the buyer will \"cry\" out their best offer price and the seller will cry out their best offer price. When a buyer and seller both cry out the same price, a futures contract is made.\nWe will flash news about different stocks according to which the prices will vary. The participant has to anticipate the change and invest money accordingly. One who makes the maximum profit wins.\nRule 1: Do not lose your money if you want to win.\nRule 2: Always follow Rule 1.\nPS: Everything about the open outcry system will be taught to you then and there, so no worries. Keep trading.\n\nJudging criteria: Participant with the maximum money at the end of the game wins.\n\n<font fgcolor="#aacedaf6"><b>BITS Business Quiz</b></font>\n\nBITS BUSINESS QUIZ (BBQ) seeks to bring together the sharpest young minds to take on the heat of a challenging business quiz. If you have a penchant for the latest in the world of mergers and acquisitions, the hottest start-ups, cheeky brand trivia, hum-worthy jingles and juicy business knowledge, you are at the right place.\n\nBITS BUSINESS QUIZ (BBQ) is an annual national level inter-college business quiz organized by the Centre for Entrepreneurial Leadership (CEL) at BITS Pilani Hyderabad Campus. Into its fifth season, BBQ 5.0 promises to be bigger and better. Aside from the challenging Quiz, it\'s also a great networking platform to meet other students with similar interest.\n1. Any number of teams can participate from one college.\n2. A team can have a maximum of 3 members.\n3. Top six teams will progress to the finals.\n4. Results of the final round would be declared on the spot after the completion of the Business Quiz.\n5. Decisions of the Quiz Master and the organizers would be final and binding on all the participants.\n\nLike our facebook page for updates and interesting questions! Register now and get ready to stamp your seal of authority in the premier battle of the brains.\n\n<font fgcolor="#aacedaf6"><b>Ground Reality</b></font>\n\nThe annual startup challenge of BITS Pilani Hyderabad Campus, GROUND REALITY will witness its final round this PEARL. After a rigorous selection process that required the teams to submit an executive summary of their B-plan, 7 finalists under the expert guidance of mentors worked on lifting their ideas off the paper and putting it to reality by coming up with a working prototype during the 4 months of pilot period. In the final round these selected teams will pitch their ideas in front of eminent judges, Venture Capitalists (VC\'s) and mentors, who will put them through a grueling questionnaire to make them realize the \"Ground Reality\" and based upon their business idea, plan of action and the progress during the pilot will analyze and decide the winners. Come and witness at PEARL 2014, some of the finest upcoming business ideas and the brains behind them.\n\nSrivatsan Ramesh\nBulls and Bears Club Secretary\n91-8184836466</string>
+    
+    
+    <string name="music_ds"><font fgcolor="#aacedaf6"><b>Indiana Tones</b></font>\n\n
+Indian music is the soul and heart of music in India as we know it. To live in India is to hum along with Kishor Kumar, Lata Mangeshkar from the past while singing along to Shaan, Shankar Mahadevan and A.R. Rahman from the present. This is the place where movies without an original music score are an oddity. This is the place where Chak-de-India, a movie track, can become an anthem for a whole nation. This is the place where music literally touches a billion hearts. Are you one of them artists? Can you make the crowd go wild to your music? Then this is where you should be.
+\nTeam 3-12 people
+\nTime Limit : 20 minutes including sound check. 5 %% of marks will be deducted for every extra minute taken.
+\nTeams are required to perform in any Indian language.
+\nOriginal compositions/Medleys are allowed. For Original Compositions, lyrics must be submitted beforehand.
+\nOne Drum Kit, one Electric Guitar, one Electric Bass, one Keyboard and one Tabla set will be provided.
+\nTeams will be judged on the basis of originality, chemistry and impact.
+\nJushira Thelakkat - 09052909560\n\n
+
+<font fgcolor="#aacedaf6"><b>Gandhaara</b></font>
+\n\nIndia is a land of cultures, and music has been in our history books as long as we can remember. Raga and Taal have shaped the culture of India from times forgotten, with greats, such as Tansen from Akbar\'s court to Pandit Ravishankar from the 21st century, keeping the flames alive. If you think you\'ve mastered your vocal chords, or your instruments in this beautiful discipline, then show us your talents in Gandhaara.
+\nTeam Strength - Solo
+\nTime limit : 5-15 minutes
+\nThis is an Indian classical solo event. Participants are expected to STRICTLY perform classical pieces only.
+\nThere are four categories:
+\n1. Carnatic Vocal
+\n2. Hindustani Vocal
+\n3. String/Wind Instruments
+\n4. Percussion Instruments
+\nParticipants are allowed to bring an accompaniment/accompanist. Only a Shruthi Box will be provided.
+\nSpecial marks will be provided for extempore, on the discretion of the Judges.
+\n5% of marks will be deducted for every extra minute taken by the participant.
+\nShiva Kannan - 09666830155
+\n\n
+<font fgcolor="#aacedaf6"><b>Pearl Jam</b></font>
+\nAn acoustic guitar and a voice have blown many a hearts away. When every great artist goes back to his roots, he never thinks about plug points and amplifiers. Nirvana, Eric Clapton, A.R. Rahman amongst many others have shown the world that music touches your heart, only when it is honest and heartfelt. So join us while we unplug and play music as it was meant to be.
+\nTeam Strength 2 - 9 people
+\nTime Limit : 15 minutes including setup. 5 %% of marks will be deducted for every extra minute taken.
+\nOnly acoustic instruments are allowed.
+\nKeyboard will be provided, but to be used in Grand Piano Mode only.
+\nElectric bass will be provided.
+\nOne Drum kit will be provided.
+\nTeams will be judged on the basis of overall synchronization and impact of song selection.
+\nKaustav Datta : 09666709802 / Jyothi - 09951282399
+\n\n
+<font fgcolor="#aacedaf6"><b>Jhankaar</b></font>
+\n\nEveryone\'s a good bathroom singer. But if you have the confidence to get out of the mold and be the next Sonu Nigam or Janis Joplin, then Jhankaar is the perfect stage for you to get off to a flying start.
+\nTeam Strength - Solo
+\nTime limit : First Round: 5 minutes including setup
+\nThis is a solo vocal event and participants will be judged on vocal quality ONLY.
+\nParticipants are allowed to sing English/Hindi songs ONLY.
+\n\nFIRST ROUND
+\nThis round will happen to a closed group of members from the Music Club.
+\nParticipants are allowed to bring a maximum of ONE accompaniment/accompanist or a karaoke track to support their first round performance.
+\nOnly one vocal mic and a lineout will be provided.
+\n\nSECOND ROUND
+\nParticipants selected for second round will be given a list of karaoke tracks a few hours in advance from which they will have to choose one, to be performed in the second round.
+\nThe performance will be on stage.
+\nOnly one vocal mic will be provided.
+\nParticipants are advised to bring an MP3 player for their convenience.
+\nMeha Sadasivam - 09912651622
+
+\n\n<font fgcolor="#aacedaf6"><b>Score-D</b></font>
+\n\nDo you feel tearful as you watch a sobbing Simba in the Lion King, whilst the powerful music plays? Does the background score of Dark Knight send your heart racing? If you aspire to be a Zimmer someday, or can create impacting background music to a video, this is just the place for you.
+\nTeam Strength 1 - 8 people
+\nTime limit : 8 minutes including setup
+\nThe band is required to choose ONE video snippet from the two that will be uploaded shortly and prepare a background for it.
+\nOne Drum Kit, one Electric Guitar, one Electric Bass, one Keyboard and one Tabla set will be provided.
+\nThe video will be played on a screen while the band plays the background music.
+\nPrabash Rath - 09666854044
+\n\n
+Further Contacts: \n
+Abhimanyu Wadhwa\n
+Music Club Secretary
+\n91-9666838950</string>
+<string name="arts_ds"><font fgcolor="#aacedaf6"><b>Avant Garde</b></font>
+\n\nIndividual speed painting event. You have 15 mins to see the subject and 20 mins to paint.
+\n\nPre-requisite : Speed, Creativity
+\n\n<font fgcolor="#aacedaf6"><b>Schedios</b></font>
+\n\nIndividual sketching event. You have draw a caricature of a well known person shown at the event suited to scene given on the spot.
+\n\n<font fgcolor="#aacedaf6"><b>Raw Genius</b></font>
+\n\nTeam event (3-4 people). 3D structures to be made with glue, paper or anything else given on the spot!
+\n\n<font fgcolor="#aacedaf6"><b>Graffiti</b></font>
+\n\nTeam Event (2-3 people). 2 rounds. Teams clearing first round go into finals (no surprises there).
+\nPlease note that this is a paid event and pre-registration (starting soon!) is required.
+\n\n<font fgcolor="#aacedaf6"><b>Art Marathon</b></font>
+\n\nTeam event (3-5 people). This is an all-nighter (because, engineering college). A mix bag of events which go on till dawn
+\n\n<font fgcolor="#aacedaf6"><b>Face Painting</b></font>
+\n\nTeam event (2-3 people). You have 1 hour to paint your friend\'s face according to the theme which will be given on the spot. 
+Only material provided should be used
+\n\n<font fgcolor="#aacedaf6"><b>Colorblind</b></font>
+\n\nIndividual sketching event. Convert a 3D colored picture (projected) to 2D black and white.
+\n\n<font fgcolor="#aacedaf6"><b>Comic Strips</b></font>
+\n\nCan you and your friend come up with a hilarious AND well-illustrated comic strip? If you want to give it a shot, this is the place for you! In teams of 2, we allow you to go wild and give us an outcome that is a comic strip worth its own series.
+\n\nMounika Reddy
+\n\nShades Club Secretary
+\n\n91-9542397139</string>
+<string name="dancing_ds"><font fgcolor="#aacedaf6"><b>Abhivyaktika</b></font>\n\n
+March 7th, 11AM - 2PM\n
+The grandeur and grace of the classical dances continue to mystify souls and assuage our desire for musical harmony. Spanning the classical dances of odissi, Kathak, Kuchipudi, Bharatanatyam, Manipuri, Kathakali and Mohiniaatam.\n
+Participants are expected to perform in full costume, which should be brought by them.
+Participants should not switch styles in between rounds.\n\n
+Round 1: Solo Prepared Performance\n
+A recital in the respective style for a maximum of 5 minutes.\n
+Participants should bring their soundtracks in their own CDs/USB.\n
+Use of props is allowed only with prior permission.\n
+Round 2: Mood Depiction\n\n
+A piece of music will be provided a few minutes before the round 2.\n
+The participant must identify the mood of the song and emote accordingly for a duration of 1 to 2 minutes.\n
+Round 3:\n
+A situation and a piece of music will be provided a few minutes before the round 3.
+The participant must enact the situation on the given piece of music for one to two minutes.\n
+Monica Jayachandran - 0955033414 / Shreya Jain - 08096985246\n\n\n
+
+<font fgcolor="#aacedaf6"><b>TERPSICHORE</b></font>\n
+March 8th, 11AM - 6PM\n\n
+Fuse the thump of music in your veins, the rhythm of Zapateado in your steps, the magic of euphony and set the stage ablaze in this group dance event. Synergise your energy, blend your talents and coalesce your ideas. Test your adaptability to the changing pace of the beat, bring out your untangled creativity and unleash your choreographic skills. Set the tempo with your magnetic moves and make the people dance and sway to your tunes.\n\n
+Maximum of 16 participants per team.\n\n
+There will be 2 rounds after an initial elimination round.\n\n
+There will be an elimination round before these two rounds at 12PM on the same day as of other rounds.\n\n
+Round 1: The Group Dance (Prepared Sequence)\n
+Selected teams will get SMS about this round\'s timing.\n
+Minimum six dancers on stage.\n
+No lead dancer, no solo performance.\n
+Time limit (excluding briefing time) Max: 6 min. Min: 3 min.\n
+All forms of dance allowed.\n
+Weightage for costumes, music, choreography and coordination.\n
+Fusion allowed.\n
+Negative marking on exceeding time limit or if the number of dancers on stage are less than 6 and disqualification for exceeding the number of participants.\n
+If props are used prior permission is required for their usage.\n
+Get your own CD/USB with music for the dance.\n
+No audio cassettes will be allowed.\n
+Round 2: Footloose (On the spot adaptation)\n
+The music will keep changing, you will have to adapt to the beat.\n
+Organizers will provide music on the spot.\n
+There will have to be at least four dancers on stage at all times.\n
+Time limit: Max: 3 min, Min: 1min (Left to the discretion of the organizers).\n
+Weightage will be given for adaptation to change of music and pace of beat, coordination and choreography.\n
+No props allowed\n
+Anisha Deka - 09705378097 / Aastha Poddar - 09010735026\n\n
+
+<font fgcolor="#aacedaf6"><b>SOUL\'O</b></font>\n
+March 9th, 1PM - 6PM\n
+You\'re on the stage alone. The crowd is screaming your name. The judges are watching ardently. And then the music starts. You\'ve been waiting for this. This is your moment. Dazzle the crowd with your amazing footwork and breathe taking moves. It\'s your time to show us that you indeed are a Smooth criminal, and walk (moonwalk if need be!) your way to glory!\n\n
+This event \"SOUL\'O\", hence is \'solely\' dedicated to the acknowledgement of one\'s own uniqueness and exceptionally, through the grace and poise of various dance forms. An exclusive platform to portray one\'s dancing skills, this opportunity is definitely not one to be missed !!!\n\n
+Eliminations (closed doors and Prepared Sequence)\n
+Time limit: Max: 5min, Min:3 min.\n
+All forms of dance allowed.\n
+Weightage for costumes, music and choreography.\n
+Fusion allowed.\n
+Negative marking for exceeding time limit.\n
+Weightage will be given for props. However, prior permission is required for their usage.\n
+Get your own CD with music for dance.\n
+No audio cassettes will be allowed.\n
+Props using fire and other hazardous materials are strictly prohibited and will lead to disqualification.\n
+Round 1: Solo Dance\n
+The sequence may or may not be the same as one performed during the eliminations.\n
+Round 2: Character Round (On the spot character presentation)\n
+The participant must portray a character provided by the organizers through dance. \n(Example-characters of actors and actresses, a gay man, a drunk man, etc.)
+Organizers will provide music and 15 min. to prepare.\n
+Time limit : Max:3 min, Min:1 min (left to the discretion of the organizers)
+Weightage will be given for innovation, choreography, character depiction.\n
+Maximum no. of participants per college is 5.\n
+No Classical dance forms are allowed.\n\n
+Round 3: Last Man Standing\n
+Stage 1:\n
+The participants will be divided into groups of 2 or 3 (depending on the participation).\n
+Every group will perform with its given participants together on stage at a time, on the same song (ex: 3 or 4 participants at a time)\n
+Of that set of people, some of them will be selected for the stage 2 in this round marked on specific criteria like skill, adaptability, energy level and creativity.
+Then similarly the other groups will also dance and the best of those will be moving to stage 2.\n
+Stage 2:\n
+The people who have entered into stage 2 will also be grouped now into groups of three or four and the same process continues till we finally have one last person standing.
+The last person standing will have the maximum number of points and the others will be marked relatively.\n
+The later he/she gets eliminated the more number of points he/she will get.\n
+Siddharth Mishra - 09666704551 / Ruwayfe Mohammad - 09010101112\n
+
+Siddharth Mishra\n
+Dance Club Secretary\n
+
+
+91-9666704551
+    
+</string>
+    
+    
+    
+    
+ <string name="vfx_ds"><font fgcolor="#aacedaf6"><b>Short Movie Submission</b></font>\n\n1.All the participants are to submit a short movie that is shot not before two months.\n2.The winner will be declared by an impartial judge based on the direction , screenplay and action.\nChandra Kashyap - 09542514274 / Abhiram Chilkuri - 09705099205\n\n\n<font fgcolor="#aacedaf6"><b>| = cartoon</b></font>\n\n1.All the participants are to design a character based on the given concept\n2.Any 2D animation or 3D modeling software can be used.\n3.The concept would be announced on the spot\nSakshi K - 09553692156 / Shivangi Shipra - 09705068937\n</string>
+    
+    
+    
+    <string name="photog_ds"><font fgcolor="#aacedaf6"><b>Pixelated</b></font>\n\nIn Association with 500px.com\n\nThe annual photography exhibition of BITS Pilani- Hyderabad Campus is BACK! This year, at PEARL, The National Annual Cultural Fest of BPHC, take part in Pixelated and win EXCITING CASH PRIZES worth Rs 15000 and more. All participants get AWESOME accounts on 500px.com\nThe annual photography exhibition of BITS Pilani- Hyderabad Campus is BACK! This year, at PEARL, The National Annual Cultural Fest of BPHC, take part in Pixelated and win EXCITING CASH PRIZES worth Rs 15000 and more. All participants get AWESOME accounts on 500px.com\n1.A maximum of 2 pictures can be submitted from each theme.\n2.The picture should be based in India and/or Depict India.\n3.The pictures should be submitted in the format : Name_PhoneNo_Theme_EXIF.\n4.All pictures should be mailed to photog.bphc@gmail.com with the subject as \"PIXELATED_YourName_PhoneNumber_College\".\n5.NO Borders/Frames/Watermarks.\n6.Last Date for submission is 20th February 2014.\n\n\n<font fgcolor="#aacedaf6"><b>Photog Race</b></font>\n\nThis Pearl\'14 come and be a part of the thrill and excitement that is the Photog Race! Based on India and its heritage, this race against the time will make you leap centuries through the clues based upon the history of India. Participants (Teams of 2-3) will be given a set of questions/clues. In a given time limit, they have to find and click the image which answers the question. The team which comes with the maximum number of correct images will be declared the winner. Ties will be broken on the basis of who comes first. Winners will be declared on the same day. Exiting Cash prizes and other goodies to be won.\n\n\n<font fgcolor="#aacedaf6"><b>ANTIMAGE</b></font>\n\nYou\'ll be provided with a set of photos. In a time limit of one hour, you have to click, what you think is the opposite i.e. the anti-image of the given images. Let your interpretation go wild and win exciting cash prizes and other goodies.\nTeam of 2 members\n\n\n<font fgcolor="#aacedaf6"><b>PIXERCH</b></font>\n\nIf you know how to use it, this event is for you. You\'ll be bombarded by a set of clues leading you to famous photos/photographers. Find them before anybody else can, and you\'ll win 2 passes to Wolfmother concert!\n\nMayank Dharw\nPhotog Club Secretary\n91-9666821098</string>
+    
+    
+    <string name="drama_ds"><font fgcolor="#aacedaf6"><b>Stage Play and Monoacting</b></font>\n\nSerious drama.\n\n Show off your acting skills by performing a long skit without boring your audience! Compete with the best dramatics clubs of the country this Pearl\'14.\n\n\nSpoof-o-mania:\n\nThis is for those, who always have that sarcastic mocking statement just around the corner, when they watch a movie. They know exactly how to make a very serious scene extremely hilarious by just tweaking the dialogues a little bit. Spoof-o-mania is back this Pearl\'14.\n\n\n<font fgcolor="#aacedaf6"><b>Nukkad Natak</b></font>\n\nDo you have it in you to make the busy crowd stand still in awe? Can you shout loud enough to be heard across a huge crowd and still be clear in your message? Can you bring goose-bumps to the people with your action? If yes, Nukkad Natak (Street Play) competition for Pearl\'14 is where you belong.\n\n\n<font fgcolor="#aacedaf6"><b>Expresso the Mime competition</b></font>\n\nAction speaks louder than words! Witness the best Mime teams from all over the country show off their theatre skills at Expresso, Pearl\'14.\n\nSivaram Makkapati\nDrama Club Secretary\n91-9666824467
+
+        
+    </string>
+    
+    
+    <string name="journal_ds"><font fgcolor="#aacedaf6"><b>Press\'D</b></font>\n\nNo of team members - 3-4\n\nRound 1: General Awareness + Creativity\n\nThe teams will be given different videos/pics/audios/remixed news etc. and they have to decipher them; design and sketch a magazine cover including the answers as different storylines.\n\nThe stationary for the sketching will be provided.\n\nRound 2: Propaganda\n\nEach team will now function as a political party, prepare a propaganda, a slogan of their party and logo of their party.\nThey have to then present it like an actual scene to the audience. The twist here is that every member of the team must be involved.\nThe more creative and interactive the propaganda is the better.\n\nRound 3: Slogans\n\nEach team would be given a set of 10 questions on India\'s socio-economic problems ( the questions being same for each team) and they have to come up with one liners (like in \'Amul girl\' print ads).\nWit and crispness is required in this round.\n\n\n<font fgcolor="#aacedaf6"><b>Football Manager Simulation</b></font>\n\nDid you ever wonder what your favorite managers go through on a transfer deadline day? Did you ever feel that you could\'ve done a better job than them? Do you make shrewd moves in Manager Mode on FIFA and just can\'t get enough of the transfer market activity? Then Football Manager: Transfer Deadline Day Simulation is for you! This event gives you a chance to showcase your football intelligence and shrewdness by being in-charge of a football club\'s transfer deadline day activity; simply put that football club\'s manager. So don\'t miss out on this wonderful opportunity to show off your football IQ and live the life of the managers of the best teams in the Premier League, La Liga, Serie A, Bundesliga, Ligue 1 and Rest of Europe for a few hours! Make your clubs proud Gaffers! Register now, in teams of 2.\n\n Limited registrations available! So hurry up!\n\nDownload the manager module and Register. Please make sure you register for Pearl before going through the previous link. You\'ll need your Pearl ID.\n\nGet updates on our event on Facebook\n\n\nPalak Jha\nJournal Club Secretary\n91-9666821987</string>
+    
+    
+    
+    <string name="literary_ds"><font fgcolor="#aacedaf6"><b>JAM</b></font>\n\nHilarious and brutal, this event is anything but slow. You\'ll have to shoot down opponents, blab as much as you can (before you go down too) and keep an eye on the clock, all whilst jumping through the mod\'s hoops.\nKartik Reddy - 09542053330\n\n<font fgcolor="#aacedaf6"><b>Shipwreck</b></font>\n\nThe classic event takes a new turn, or if you may, a dip! This time we allot you into 5-6 members group with each speaker defending themselves and going against the rest! We add a dash of debate for you lovers of the tradition. Each person speaks for a minute as the character/character-perk he is assigned, and another minute answering questions from his co-passengers.\nCan you convince your co-passengers to save you over themselves?\nVickraman - 09542129996\n\n<font fgcolor="#aacedaf6"><b>Sherlocked</b></font>\n\nSherlocked is an investigative journalism event which focuses on both its components. It\'s not simply about writing the best articles or solving the mystery: it\'s about depicting the scenario in an unbiased manner. With multiple suspects, various evidence, conflicting reports, competing journalists and live action press conferences, can you unravel the web of lies?\nThis time we go all night with the event. We give you a fully fledged crime scene, in exchange for the investigation report.\nSri Harsha - 07730835513\n\n<font fgcolor="#aacedaf6"><b>Comic Strips</b></font>\n\nCan you and your friend come up with a hilarious AND well-illustrated comic strip? If you want to give it a shot, this is the place for you! In teams of 2, we allow you to go wild and give us an outcome that is a comic strip worth its own series.\nSrujani - 07702211772\n\n<font fgcolor="#aacedaf6"><b>Yin-Yang</b></font>\n\nYou write us a story with one of the topics we give you. That\'s the easy part. Second half of this event sees how you can undo another participant\'s story. We seat you in pairs, we read both the Yin and Yang to each story. How you can make a story, and make a story opposite to the one given to you.\nSai Ram - 09705261484\n\n<font fgcolor="#aacedaf6"><b>The Usual Suspects</b></font>\n\nWell, first off, we just love the movie. The event has very little relation to the title, but we leaped at the first tiny gleam of chance. So, we let you see a bunch of pictures, each with a character. All you know about them is their name. You pick one main character and two subsidiary characters and make up a short story. And yes, brownie points for weird character combinations!\nSrujani - 07702211772\n\n<font fgcolor="#aacedaf6"><b>The Big Fight</b></font>\n\nIt is said that an issue is better left undecided with a good debate, than decided without one. You might think you\'re good, but this isn\'t your average dinner table discussion. Welcome to the big stage, where spotlights, brickbats and uncertainty await you. Most definitely one of the events we hold close to heart and render astute organisation, we assure you a good time debating here!\nKarthik -09542129996\n\n<font fgcolor="#aacedaf6"><b>Online Flash Fiction Contest</b></font>\n\n\'For Sale: Baby Shoes; Never worn\' Think you can better and shorter? Join the Pearl Online Flash Fiction Contest to show off your writing skills, and weave up a succinct tale\"\nCheckouthttps://www.facebook.com/ELASatBPHCM\nSrujani - 07702211772\n\nFurther Contacts :\nSrujani Kamineni\nELAS Club Secretary\n07702211772</string>
+    
+    
+    <string name="quiz_ds"><font fgcolor="#aacedaf6"><b>The Pearl Entertainment Quiz</b></font>\n\nThe Midnight Entertainment Quiz is one of Pearl\'s most awaited events. In keeping with tradition, the quiz will be held under the stars this year as well after the inauguration. With questions ranging from pilot episode to the post-credit scene, from Rahul.. Bose to Robert Downey Jr., the first event of Pearl\'14 promises to be an \'entertainer\' in every sense of the word.\nTeams of 3 or less. Cross-college teams allowed.\nRanganathan - 09705103648\n\n<font fgcolor="#aacedaf6"><b>Sports Quiz</b></font>\n\nCongratulations! All that time sitting on front of the telly watching Doordarshan reruns of golf from the 70s was not a waste of time.(Yes, it was) The Sports Quiz will be conducted by BPHC alumnus and ardent Ishant Sharma fan, Sudharshan Veeravalli.\nTeams of three or less. All participants must belong to a recognized educational institution.\nTeams of 3 or less. Cross-college teams allowed.\nMadhav - 09666246194\n\n<font fgcolor="#aacedaf6"><b>AV Quiz</b></font>\n\nThe AV quiz as the name indicates will be an Audio Visual affair with questions ranging from Marilyn Monroe movie clips to Rahul Gandhi speeches. All team members must be from a college/school.Teams of three or less.\nTeams of 3 or less. Cross-college teams allowed.\nRanganathan - 09705103648\n\n<font fgcolor="#aacedaf6"><b>The India Quiz</b></font>\n\nCommemorating the theme of Pearl 2014, the India Quiz shall encompass everything you\'ve come to love and hate about this country. For every question that sounds like a raucous barb from a Times Now studio, there will be mellifluous notes of our classical music. For every quote that seems straight out of an election campaign, there will be timely reminders of the wisdom that this land has given birth to. Preparation would involve learning the names of all the Northeastern states along with their capitals.\nQuizmaster: Bhargava EM\nTeams of 3 or less. Cross-College teams allowed.\nOjas - 09666823684\n\n<font fgcolor="#aacedaf6"><b>The Lone Wolf Quiz</b></font>\n\nIt\'s just you versus the quizmaster. Walk in solo, test your mettle, rack your brains and be crowned the best\nSree Nihit - 09010172050\n\n<font fgcolor="#aacedaf6"><b>The Pearl General Quiz</b></font>\n\nThe annual flagship quiz of Hyderabad\'s biggest cultural festival. Conducted by one of India\'s most acclaimed quizmasters - Major Chandrakant Nair, prepare to be quizzed on anything under the Sun, take the gloves off and battle it out against the very best.\nLike the Super Troupers from Sweden famously chanted - The Winner Takes It All.\nTeams of 3 or less. Cross-college teams allowed.\nSameer - 09177409772\n\n\nFurther Contacts : \nMadhav - 09666246194\nOjas - 09666823684</string>
+    
+    
+    <string name="hindi_ds"><font fgcolor="#aacedaf6"><b>Youth Mahasabha</b></font>\n\nMarch 8th\n\nI do not agree with what you have to say, but i\'ll defend to the death your right to say it.\n-Voltaire\n\n<font fgcolor="#aacedaf6"><b>This Women\'s Day</b></font> - Open parliamentary debate on burning issues.\n1.Hindi and English are both allowed.\n2.Nospecific rules, just the amount of decorum maintained in the Lok Sabha is enough.\n3.Party and Leader appointments on the spot.\n\nShivam Mittal - 09705076109 / Mayank Goel - 09666839267\n\n<font fgcolor="#aacedaf6"><b>Abey!!! Hans Le Zaraa</b></font>\n\nTumhari adaao pe main waari waari\nTumhari adaao pe main waari waari\nWah wah.....\nTumahri adaoo pe main waari waari\nDial 139 for railway enquiry......\n\nMore of the above awaits you at Pearl 14.\n\nIn today\'s world where people are involved in a frantic rat race in order to fullfill their needs, the joy, happiness and laughter seems to be completely vanished from their lives. Keeping in mind that Laughter is the best medicine. You can join us to entertain yourself as well as the crowd to become the ultimate comedy champion. You can entertain the folk in following categories:\n\n1. Hindi/English Jokes\n2. Funny shayari\n3. Haasya kavita( Comical poem)\n4. Stand-up comedy\n5. Dual comedy\n\nAnd yes you are free to hit PJ\'s also (( BUT, AT YOUR OWN RISK))\nSushanto Mukherjee - 09705708930 / Parth Gupta - 09010292637\n\nFurther Contacts :\nShivam Mittal\nHindi Tarang Club Secretary\n09705076109</string>
+    
+</resources>

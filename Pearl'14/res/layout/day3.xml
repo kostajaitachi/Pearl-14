@@ -1,0 +1,21 @@
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:id="@+id/scrollView1"
+        android:layout_height="wrap_content" android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" android:layout_above="@+id/button1"
+        android:layout_alignParentRight="true" android:scrollbarAlwaysDrawVerticalTrack="true">
+        <LinearLayout android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent" android:layout_height="fill_parent" android:gravity="center_horizontal">
+            
+            <HorizontalScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+            <ImageView 
+                android:layout_height="wrap_content" 
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:background="@drawable/day3sch"/>
+                
+           </HorizontalScrollView>
+        </LinearLayout>
+    </ScrollView>

@@ -1,0 +1,250 @@
+<?xml version="1.1" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true" >
+     
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#000000" >
+    
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:orientation="horizontal"
+            android:background="#D1D0CE"
+            >
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/pblue" 
+                android:clickable="true"
+                />
+  
+        </LinearLayout>
+        
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+            android:background="#D1D0CE"
+            />
+         
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="200dip"
+             android:orientation="horizontal" >
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+
+             <ImageButton
+                 android:id="@+id/location"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:layout_weight="2.74"
+                 android:background="@drawable/maps" />
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+         </LinearLayout>
+         
+         
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="15dip" 
+            />
+         
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="200dip"
+             android:orientation="horizontal" >
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+
+             <ImageButton
+                 android:id="@+id/imageView25"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:layout_weight="2.74"
+                 android:background="@drawable/events" />
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+         </LinearLayout>
+         
+         
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="15dip" 
+            />
+         
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="200dip"
+             android:orientation="horizontal" >
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+
+             <ImageButton
+                 android:id="@+id/shedule"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:layout_weight="2.74"
+                 android:background="@drawable/schedule" />
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+         </LinearLayout>
+         
+         
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="15dip" 
+            />
+         
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="200dip"
+             android:orientation="horizontal" >
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+
+             <ImageButton
+                 android:id="@+id/imageView29"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:layout_weight="2.74"
+                 android:background="@drawable/feedbacknew" />
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+         </LinearLayout>
+         
+         
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="15dip" 
+            />
+         
+         
+         
+         
+         
+ 
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="200dip"
+             android:orientation="horizontal" >
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+
+             <ImageButton
+                 android:id="@+id/about"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:layout_weight="2.74"
+                 android:background="@drawable/aboutus" />
+
+             <ImageView
+                 android:layout_width="5dp"
+                 android:layout_height="match_parent" />
+         </LinearLayout>
+
+      
+         
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="15dip"
+            android:background="#D1D0CE" 
+            />
+        
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             >
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="70dip"
+             android:orientation="horizontal"
+             android:weightSum="10"
+             android:background="#D1D0CE" >
+
+             
+             <ImageView
+            android:layout_width="0.1dip"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            />
+             
+             <ImageButton
+                 android:id="@+id/imageView1"
+                 android:layout_width="80dp"
+                 android:layout_height="fill_parent"
+                 android:layout_weight="4"
+                 android:background="@drawable/facebook" />
+             
+             <ImageView
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+         android:layout_weight="1"
+            />
+             
+             <ImageButton
+                 android:id="@+id/imageView2"
+                 android:layout_width="80dp"
+                 android:layout_height="fill_parent"
+                 android:layout_weight="4"
+                 android:background="@drawable/twitter" />
+             <ImageView
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+         android:layout_weight="1"
+            />
+             
+             <ImageButton
+                 android:id="@+id/imageView3"
+                 android:layout_width="120dp"
+                 android:layout_height="fill_parent"
+                 android:layout_weight="4"
+                 android:background="@drawable/sponsors" />
+             
+             <ImageView
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+         android:layout_weight="1"
+            />
+             
+             <ImageButton
+                 android:id="@+id/imageView4"
+                 android:layout_width="120dp"
+                 android:layout_height="fill_parent"
+                 android:layout_weight="4"
+                 android:background="@drawable/contacts" />
+             
+             
+         </LinearLayout>
+         </HorizontalScrollView>
+         
+        
+    </LinearLayout>
+    
+    
+    </ScrollView>

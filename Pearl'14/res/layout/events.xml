@@ -1,0 +1,396 @@
+<?xml version="1.1" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true" >
+    
+    
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000" >
+    
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:orientation="horizontal"
+            android:background="#D1D0CE"
+            >
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/pblue" />
+
+            
+            
+        </LinearLayout>
+        
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+            
+            />
+         
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="170dp"
+		    android:orientation="vertical"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event1"
+                 android:layout_width="match_parent"
+                 android:layout_height="170dp"
+                 android:background="@drawable/wolfmother"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="170dp"
+		    android:orientation="vertical"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event2"
+                 android:layout_width="match_parent"
+                 android:layout_height="170dp"
+                 android:background="@drawable/javedali1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="170dp"
+		    android:orientation="vertical"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event3"
+                 android:layout_width="match_parent"
+                 android:layout_height="170dp"
+                 android:background="@drawable/catharsis1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="170dp"
+		    android:orientation="vertical"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event4"
+                 android:layout_width="match_parent"
+                 android:layout_height="170dp"
+                 android:background="@drawable/hiphop1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="170dp"
+		    android:orientation="vertical"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event5"
+                 android:layout_width="match_parent"
+                 android:layout_height="170dp"
+                 android:background="@drawable/gliteratti1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="170dp"
+		    android:orientation="vertical"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event6"
+                 android:layout_width="match_parent"
+                 android:layout_height="170dp"
+                 android:background="@drawable/tilldeaf1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="170dp"
+		    android:orientation="vertical"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event7"
+                 android:layout_width="match_parent"
+                 android:layout_height="170dp"
+                 android:background="@drawable/electrovertz1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="170dp"
+		    android:orientation="vertical"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event8"
+                 android:layout_width="match_parent"
+                 android:layout_height="170dp"
+                 android:background="@drawable/fraglore1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+          <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="150dp"
+		    android:orientation="horizontal"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event9"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/aspire1"
+                 android:layout_weight="1"
+                 />
+             
+         <ImageView 
+                 android:layout_height="fill_parent"
+                 android:layout_width="5dp"
+                 />
+         
+             <ImageButton 
+                 android:id="@+id/event10"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/finance1"
+                 android:layout_weight="1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="150dp"
+		    android:orientation="horizontal"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event11"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/music1"
+                 android:layout_weight="1"
+                 />
+             
+         <ImageView 
+                 android:layout_height="fill_parent"
+                 android:layout_width="5dp"
+                 />
+         
+             <ImageButton 
+                 android:id="@+id/event12"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/arts1"
+                 android:layout_weight="1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="150dp"
+		    android:orientation="horizontal"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event13"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/dance1"
+                 android:layout_weight="1"
+                 />
+             
+             <ImageView 
+                 android:layout_height="fill_parent"
+                 android:layout_width="5dp"
+                 />
+         
+         
+             <ImageButton 
+                 android:id="@+id/event14"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/vfx1"
+                 android:layout_weight="1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="150dp"
+		    android:orientation="horizontal"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event15"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/photog1"
+                 android:layout_weight="1"
+                 />
+             
+         <ImageView 
+                 android:layout_height="fill_parent"
+                 android:layout_width="5dp"
+                 />
+         
+             <ImageButton 
+                 android:id="@+id/event16"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/drama1"
+                 android:layout_weight="1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="150dp"
+		    android:orientation="horizontal"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event17"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/journal1"
+                 android:layout_weight="1"
+                 />
+             
+         	<ImageView 
+                 android:layout_height="fill_parent"
+                 android:layout_width="5dp"
+                 />
+         
+             <ImageButton 
+                 android:id="@+id/event18"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/literary1"
+                 android:layout_weight="1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         <LinearLayout
+             android:layout_width="match_parent"
+		    android:layout_height="150dp"
+		    android:orientation="horizontal"
+		    android:background="#000000" >
+            
+             <ImageButton 
+                 android:id="@+id/event19"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/quiz1"
+                 android:layout_weight="1"
+                 />
+             
+             <ImageView 
+                 android:layout_height="fill_parent"
+                 android:layout_width="5dp"
+                 />
+         
+         
+             <ImageButton 
+                 android:id="@+id/event20"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:background="@drawable/hindi1"
+                 android:layout_weight="1"
+                 />
+             
+         </LinearLayout>
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+           
+            />
+         
+         
+         
+        </LinearLayout>
+    
+    </ScrollView>
